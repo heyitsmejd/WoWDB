@@ -1,0 +1,42 @@
+{
+  "name": "wowdb",
+  "version": "1.0.0",
+  "description": "A vanilla 1.12.1 world of warcraft database",
+  "author": "heyitsmejd <31124349+heyitsmejd@users.noreply.github.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.5.1",
+    "@nuxtjs/axios": "^5.3.1",
+    "bulma": "^0.7.1",
+    "bulma-extensions": "^2.2.1",
+    "cookie": "^0.3.1",
+    "font-awesome": "^4.7.0",
+    "froala-editor": "^2.8.3",
+    "js-cookie": "^2.2.0",
+    "jwt-decode": "^2.2.0",
+    "node-sass": "^4.9.0",
+    "nuxt": "^1.0.0",
+    "nuxt-buefy": "0.0.4",
+    "sass-loader": "^7.0.2",
+    "vue-froala-wysiwyg": "^2.8.3",
+    "vue-wysiwyg": "^1.7.2",
+    "vuetify": "^1.1.1",
+    "vuex-persistedstate": "^2.5.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "vue-loader": "^13.7.2"
+  }
+}

@@ -1,0 +1,39 @@
+@import '~bulma/sass/utilities/initial-variables';
+@import '~bulma/sass/utilities/functions';
+
+// customize styles
+$body-color: #FFFFFF;
+$primary: #28b2c7;
+$danger: #e6697f;
+$warning: #9241d9;
+$info: #6382d9;
+$body-background-color: #1c1e2f;
+$link: #8BBEB2;
+$link-hover: $primary; 
+$card-color: #c3c3c3;
+$card-border-radius: 32px;
+$card-background-color: #272942;
+$navbar-background-color: #2a2a38;
+$navbar-item-color: $info;
+$navbar-item-hover-color: $danger;
+$navbar-item-hover-background-color: #383c4e;
+$navbar-dropdown-background-color: #2a2a38;
+$navbar-dropdown-item-hover-background-color: none;
+$navbar-dropdown-item-hover-color: $warning;
+$navbar-dropdown-border-top: 2px solid #6a869a;
+$table-head-cell-color: #5d6079;
+$input-background-color: #262640;
+$input-border-color: #262640;
+$input-hover-border-color: #262640;
+$input-color: #b7b7b7;
+$title-color: #68ff97;
+$table-head-cell-color:  #6b6b6b;
+$table-cell-heading-color: #6b6b6b;
+$table-background-color: #21212f;
+$table-color: #cecece;
+$control-has-icons-right-color: #49495a;
+$black: #343434;
+
+$variable-columns: false;
+@import '~bulma';	
+@import "~vue-wysiwyg/dist/vueWysiwyg";

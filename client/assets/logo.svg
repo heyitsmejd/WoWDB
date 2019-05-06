@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300px"
+   height="50px"
+   viewBox="0 0 300 50"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4135911"
+     inkscape:cx="145.70957"
+     inkscape:cy="11.67107"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1834"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs1430">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2003">
+      <stop
+         style="stop-color:#eb00e0;stop-opacity:1"
+         offset="0"
+         id="stop1999" />
+      <stop
+         style="stop-color:#f8287b;stop-opacity:0.93725491"
+         offset="1"
+         id="stop2001" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2003"
+       id="linearGradient2007"
+       x1="59.922279"
+       y1="28.940111"
+       x2="238.46219"
+       y2="28.940111"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata1433">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1989"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Moyko;-inkscape-font-specification:Moyko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#linearGradient2007);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.42532794;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1.3151501,0,0,1.3151501,-49.712061,-12.642203)"><flowRegion
+         id="flowRegion1991"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moyko;-inkscape-font-specification:Moyko;text-align:center;text-anchor:middle;stroke:#000000;stroke-opacity:1;fill-opacity:1;fill:url(#linearGradient2007);stroke-width:0.42532794;stroke-miterlimit:4;stroke-dasharray:none"><rect
+           id="rect1993"
+           width="292.96875"
+           height="46.289062"
+           x="3.515625"
+           y="1.953125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moyko;-inkscape-font-specification:Moyko;text-align:center;text-anchor:middle;stroke:#000000;stroke-opacity:1;fill-opacity:1;fill:url(#linearGradient2007);stroke-width:0.42532794;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+         id="flowPara1995"
+         style="fill-opacity:1;fill:url(#linearGradient2007);stroke-width:0.42532794;stroke-miterlimit:4;stroke-dasharray:none">C<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moyko;-inkscape-font-specification:Moyko;stroke:#000000;stroke-opacity:1;fill-opacity:1;fill:url(#linearGradient2007);stroke-width:0.42532794;stroke-miterlimit:4;stroke-dasharray:none"
+   id="flowSpan1997">lassicGuru</flowSpan></flowPara></flowRoot>  </g>
+</svg>
